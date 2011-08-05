@@ -1,8 +1,15 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.9'
+gem  rake,  '>= 0.9.2'
 
-# Bundle edge Rails instead:
+
+
+
+
+
+
+# Bundle edgess Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
